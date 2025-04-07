@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="compete_poco.Models.Chat" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAA=</HashCode>
+      <FileName>Models\Chat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="compete_poco.Models.MapActionInfo" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAACAAAQAIAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\MapActionInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="compete_poco.Models.User" Collapsed="true">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YBCCCAAAAQQAABAIEAgAAAQACQCyAAAACAAAAAAAAEQ=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="compete_poco.Models.UserAward" Collapsed="true">
+    <Position X="6.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAQAAAIAAAAAAAAAgAAAAQAAAIAAAAAAAABAA=</HashCode>
+      <FileName>Models\UserAward.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="compete_poco.Models.UserStat" Collapsed="true">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAjAgAAAAAAAAAACAAAAAgAAAAAAAAgAAIAAAAAgAA=</HashCode>
+      <FileName>Models\UserStat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="compete_poco.Models.UserBid" Collapsed="true">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAQAAAAAAACAAAAAgAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\UserBid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="compete_poco.Models.Team" Collapsed="true">
+    <Position X="14.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAQAAAAAACAAAAAAQAAAAAAAgAAAAAAAQABAQ=</HashCode>
+      <FileName>Models\Team.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="compete_poco.Models.Lobby" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>JBCCCCAHAwQAAgACAAAEAAgAAAEQAAgAEAAAkgAAQAw=</HashCode>
+      <FileName>Models\Lobby.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Server" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Teams" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="compete_poco.Models.LobbyPort" Collapsed="true">
+    <Position X="13.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="compete_poco.Models.Server" Collapsed="true">
+    <Position X="15" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACAIAAQIAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Compete_POCO_Models.Models.IContainsValuableEvents" Collapsed="true">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IContainsValuableEvents.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="compete_poco.Models.AwardType" Collapsed="true">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\UserAward.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="compete_poco.Models.Format" Collapsed="true">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Lobby.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="compete_poco.Models.Type" Collapsed="true">
+    <Position X="2" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAQIAAAAAAIAAAAAAAE=</HashCode>
+      <FileName>Models\Lobby.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="compete_poco.Models.LobbyStatus" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAAAAAAAAAAgAIAAAAIAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Lobby.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

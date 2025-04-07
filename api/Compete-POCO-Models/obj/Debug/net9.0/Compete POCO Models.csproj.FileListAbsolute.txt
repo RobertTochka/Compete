@@ -1,0 +1,15 @@
+D:\Codes\Compete\root\api\Compete-POCO-Models\bin\Debug\net9.0\Compete POCO Models.deps.json
+D:\Codes\Compete\root\api\Compete-POCO-Models\bin\Debug\net9.0\Compete POCO Models.runtimeconfig.json
+D:\Codes\Compete\root\api\Compete-POCO-Models\bin\Debug\net9.0\Compete POCO Models.dll
+D:\Codes\Compete\root\api\Compete-POCO-Models\bin\Debug\net9.0\Compete POCO Models.pdb
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net9.0\Compete POCO Models.csproj.AssemblyReference.cache
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net9.0\Compete POCO Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net9.0\Compete POCO Models.AssemblyInfoInputs.cache
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net9.0\Compete POCO Models.AssemblyInfo.cs
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net9.0\Compete POCO Models.csproj.CoreCompileInputs.cache
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net9.0\Compete POCO Models.sourcelink.json
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net9.0\Compete POCO Models.dll
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net9.0\refint\Compete POCO Models.dll
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net9.0\Compete POCO Models.pdb
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net9.0\Compete POCO Models.genruntimeconfig.cache
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net9.0\ref\Compete POCO Models.dll

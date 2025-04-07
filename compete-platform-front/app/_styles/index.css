@@ -1,0 +1,156 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	html,
+	body {
+		overflow-x: hidden;
+	}
+	body {
+		font: 400 16px var(--font-montserrat);
+		color: white;
+	}
+	a,
+	button {
+		transition: color 0.175s, background 0.2s;
+	}
+	*::-webkit-scrollbar,
+	*::-webkit-scrollbar {
+		/* display: none; */
+	}
+	a,
+	button,
+	p,
+	div,
+	span,
+	ul,
+	ol,
+	li {
+		user-select: none;
+	}
+	svg,
+	path,
+	circle {
+		transition: all 0.15s;
+	}
+	input {
+		background: transparent;
+		width: 100%;
+	}
+	input:focus,
+	textarea:focus {
+		outline: none;
+	}
+	textarea {
+		resize: none;
+	}
+	pre {
+		font: inherit;
+	}
+	input::-webkit-outer-spin-button,
+	input::-webkit-inner-spin-button {
+		-webkit-appearance: none;
+		margin: 0;
+	}
+}
+
+@layer utilities {
+	.flex-middle {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.custom-scrollbar::-webkit-scrollbar {
+		width: 4px;
+	}
+	.custom-scrollbar::-webkit-scrollbar-track {
+		background: transparent;
+		border-radius: 10px;
+	}
+	.custom-scrollbar::-webkit-scrollbar-thumb {
+		background: #d9d9d9;
+		border-radius: 10px;
+	}
+
+	.custom-scrollbar-for-lobby {
+		scroll-snap-type: y mandatory;
+	}
+	.custom-scrollbar-for-lobby > div {
+		scroll-snap-align: start;
+	}
+	.custom-scrollbar-for-lobby::-webkit-scrollbar {
+		width: 7px;
+	}
+	.custom-scrollbar-for-lobby::-webkit-scrollbar-track {
+		background: transparent;
+		border-radius: 10px;
+	}
+	.custom-scrollbar-for-lobby::-webkit-scrollbar-thumb {
+		background: #d9d9d9;
+		border-radius: 10px;
+	}
+
+	.custom-snaping {
+		scroll-snap-type: y mandatory;
+	}
+	.custom-snaping div {
+		scroll-snap-align: start;
+	}
+}
+
+.homepage-blue-shadow--keyboard {
+	/* x, y, размытие, толщина, цвет */
+	box-shadow: 0 0 5012px 100px #3297f5, 0 0 2864px 0 #3297f5, 0 0 1670px 0 #3297f5, 0 0 835px 0 #3297f5,
+		0 0 238px 0 #3297f5, 0 0 120px 0 #3297f5;
+}
+
+.homepage-blue-shadow--rating,
+.homepage-blue-shadow--revenue {
+	/* x, y, размытие, толщина, цвет */
+	box-shadow: 0 0 556px 0 #3bacfc, 0 0 317px 0 #3bacfc, 0 0 185px 0 #3bacfc, 0 0 92px 0 #3bacfc, 0 0 26px 0 #3bacfc,
+		0 0 13px 0 #3bacfc;
+}
+
+.homepage-blue-shadow--chat {
+	/* x, y, размытие, толщина, цвет */
+	box-shadow: 0 0 266px 0 #3bacfc, 0 0 152px 0 #3bacfc, 0 0 88px 0 #3bacfc, 0 0 44px 0 #3bacfc, 0 0 12px 0 #3bacfc,
+		0 0 6px 0 #3bacfc;
+}
+
+.arrow {
+	width: 42px;
+	height: 42px;
+	position: absolute;
+	top: 40%;
+	transform: translateY(-50%);
+	fill: #fff;
+	cursor: pointer;
+}
+
+.arrow:hover {
+	opacity: 80%;
+}
+
+.arrow--left {
+	left: 0;
+	transform: translateX(-185%);
+}
+
+.arrow--right {
+	right: 0;
+	transform: translateX(185%);
+}
+
+.animate-tooltip-progress {
+    animation: tooltipProgress 10100ms;
+}
+
+@keyframes tooltipProgress {
+    from {
+        width: 100%;
+    } 
+    to {
+        width: 0%;
+    }
+}

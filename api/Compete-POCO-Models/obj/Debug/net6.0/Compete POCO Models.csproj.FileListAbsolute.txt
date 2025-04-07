@@ -1,0 +1,75 @@
+E:\repos\code\Compete POCO Models\obj\Debug\net6.0\Compete POCO Models.csproj.AssemblyReference.cache
+E:\repos\code\Compete POCO Models\obj\Debug\net6.0\Compete POCO Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\code\Compete POCO Models\obj\Debug\net6.0\Compete POCO Models.AssemblyInfoInputs.cache
+E:\repos\code\Compete POCO Models\obj\Debug\net6.0\Compete POCO Models.AssemblyInfo.cs
+E:\repos\code\Compete POCO Models\obj\Debug\net6.0\Compete POCO Models.csproj.CoreCompileInputs.cache
+E:\repos\code\Compete POCO Models\bin\Debug\net6.0\Compete POCO Models.deps.json
+E:\repos\code\Compete POCO Models\bin\Debug\net6.0\Compete POCO Models.dll
+E:\repos\code\Compete POCO Models\bin\Debug\net6.0\Compete POCO Models.pdb
+E:\repos\code\Compete POCO Models\obj\Debug\net6.0\Compete POCO Models.dll
+E:\repos\code\Compete POCO Models\obj\Debug\net6.0\refint\Compete POCO Models.dll
+E:\repos\code\Compete POCO Models\obj\Debug\net6.0\Compete POCO Models.pdb
+E:\repos\code\Compete POCO Models\obj\Debug\net6.0\ref\Compete POCO Models.dll
+E:\repos\code\Compete POCO Models\obj\Debug\net6.0\Compete POCO Models.sourcelink.json
+E:\repos\code\Compete POCO Models\bin\Debug\net6.0\Compete POCO Models.runtimeconfig.json
+E:\repos\code\Compete POCO Models\obj\Debug\net6.0\Compete POCO Models.genruntimeconfig.cache
+C:\Users\User\Desktop\projects\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.deps.json
+C:\Users\User\Desktop\projects\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.runtimeconfig.json
+C:\Users\User\Desktop\projects\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.dll
+C:\Users\User\Desktop\projects\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.pdb
+C:\Users\User\Desktop\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.AssemblyInfo.cs
+C:\Users\User\Desktop\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.sourcelink.json
+C:\Users\User\Desktop\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.dll
+C:\Users\User\Desktop\projects\Compete-POCO-Models\obj\Debug\net6.0\refint\Compete POCO Models.dll
+C:\Users\User\Desktop\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.pdb
+C:\Users\User\Desktop\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.genruntimeconfig.cache
+C:\Users\User\Desktop\projects\Compete-POCO-Models\obj\Debug\net6.0\ref\Compete POCO Models.dll
+D:\projects\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.deps.json
+D:\projects\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.runtimeconfig.json
+D:\projects\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.dll
+D:\projects\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.pdb
+D:\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.csproj.AssemblyReference.cache
+D:\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.AssemblyInfoInputs.cache
+D:\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.AssemblyInfo.cs
+D:\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.csproj.CoreCompileInputs.cache
+D:\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.sourcelink.json
+D:\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.dll
+D:\projects\Compete-POCO-Models\obj\Debug\net6.0\refint\Compete POCO Models.dll
+D:\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.pdb
+D:\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.genruntimeconfig.cache
+D:\projects\Compete-POCO-Models\obj\Debug\net6.0\ref\Compete POCO Models.dll
+D:\mine\projects\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.deps.json
+D:\mine\projects\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.runtimeconfig.json
+D:\mine\projects\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.dll
+D:\mine\projects\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.pdb
+D:\mine\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.csproj.AssemblyReference.cache
+D:\mine\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\mine\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.AssemblyInfoInputs.cache
+D:\mine\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.AssemblyInfo.cs
+D:\mine\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.csproj.CoreCompileInputs.cache
+D:\mine\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.sourcelink.json
+D:\mine\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.dll
+D:\mine\projects\Compete-POCO-Models\obj\Debug\net6.0\refint\Compete POCO Models.dll
+D:\mine\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.pdb
+D:\mine\projects\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.genruntimeconfig.cache
+D:\mine\projects\Compete-POCO-Models\obj\Debug\net6.0\ref\Compete POCO Models.dll
+D:\Codes\Compete\root\api\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.deps.json
+D:\Codes\Compete\root\api\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.runtimeconfig.json
+D:\Codes\Compete\root\api\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.dll
+D:\Codes\Compete\root\api\Compete-POCO-Models\bin\Debug\net6.0\Compete POCO Models.pdb
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.csproj.AssemblyReference.cache
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.AssemblyInfoInputs.cache
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.AssemblyInfo.cs
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.csproj.CoreCompileInputs.cache
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.sourcelink.json
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.dll
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net6.0\refint\Compete POCO Models.dll
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.pdb
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net6.0\Compete POCO Models.genruntimeconfig.cache
+D:\Codes\Compete\root\api\Compete-POCO-Models\obj\Debug\net6.0\ref\Compete POCO Models.dll
